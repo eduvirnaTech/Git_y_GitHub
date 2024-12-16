@@ -8,6 +8,6 @@ En español
 
 Color blue
 
-Rama appBar
+Curso Git y GitHub
 
 Estilo actualizado
