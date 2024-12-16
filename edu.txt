@@ -2,6 +2,8 @@ Hola que tal
 
 Curso git
 
+Texto central cambiado
+
 Otro cambio
 Cambio color
 En español
