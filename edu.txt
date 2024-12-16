@@ -8,4 +8,8 @@ Otro cambio
 Cambio color
 En español
 
-Rama principal
+Color blue
+
+Curso Git y GitHub
+
+Estilo actualizado
