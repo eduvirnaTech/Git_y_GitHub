@@ -10,7 +10,7 @@ En español
 
 Color blue
 
-Curso Git y GitHub
+Ya empieza con Github
 
 Estilo actualizado
 
