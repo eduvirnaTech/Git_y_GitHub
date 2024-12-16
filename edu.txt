@@ -10,7 +10,7 @@ En español
 
 Color blue
 
-Curso Git y GitHub
+Github vs Gitlab
 
 Estilo actualizado
 
