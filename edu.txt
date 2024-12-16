@@ -13,3 +13,5 @@ Color blue
 Curso Git y GitHub
 
 Estilo actualizado
+
+Icono cambiado
