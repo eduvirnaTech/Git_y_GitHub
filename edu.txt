@@ -15,3 +15,5 @@ Github vs Gitlab
 Estilo actualizado
 
 Icono cambiado
+
+Counter de 10 en 10
