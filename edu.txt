@@ -5,7 +5,7 @@ Curso git y GitHub ev
 Texto central cambiado
 
 Otro cambio
-Cambio color
+Cambio color a otro
 En español
 
 Color blue
@@ -17,3 +17,5 @@ Estilo actualizado
 Icono cambiado
 
 Counter de 1 en 1
+
+Cambiando cosas del diseño
