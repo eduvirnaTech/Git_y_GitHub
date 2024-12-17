@@ -1,6 +1,6 @@
 Hola que tal
 
-Curso git
+Curso git y GitHub
 
 Texto central cambiado
 
