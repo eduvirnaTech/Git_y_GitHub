@@ -16,4 +16,4 @@ Estilo actualizado
 
 Icono cambiado
 
-Counter de 10 en 10
+Counter de 11 en 11
