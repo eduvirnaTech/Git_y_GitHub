@@ -18,4 +18,4 @@ Icono cambiado
 
 Counter de 1 en 1
 
-Bug corregido
+Bug corregido + minicambio
