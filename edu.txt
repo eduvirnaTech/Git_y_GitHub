@@ -24,10 +24,4 @@ Main 1
 Main (commit 2)
 Rama experimental (experimento)
 
-<<<<<<< HEAD
 Main 1
-=======
-Rama experimental (experimento 2)
-
-Main 1
->>>>>>> 13c6fa0 (Experimento 2)
